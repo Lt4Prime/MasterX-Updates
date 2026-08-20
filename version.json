@@ -2,7 +2,7 @@
   "version": "0.9.2",
   "channel": "beta",
   "mandatory": false,
-  "download_url": "https://github.com/Lt4Prime/MasterX-Updates/releases/download/v0.9.1/MasterX_0.9.1_Beta.exe",
+  "download_url": "https://github.com/Lt4Prime/MasterX-Updates/releases/download/v0.9.2/MasterX_0.9.2_Beta.exe",
   "sha256": "8cea100e0851b0d34c6e656f2123cf0b407c1999cccb474f4a1f239c1a7c7f23",
   "notes": "Primera beta pública de MasterX."
 }
